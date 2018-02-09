@@ -1,0 +1,18 @@
+if the list is empty
+
+	--- put the name in the names array
+	--- set head_of_list to 0
+	--- set element 0 in the links array to -1
+
+if the name belongs first in alphabetical order
+	--- lengthen the names array and put the name in the names array
+	--- lengthen the links array
+	--- set the new element in the links array to the contents of head_of_list
+	--- set the head_of_list to the address (read index) of the new name in the names_array
+
+otherwise
+	--- lengthen the names array and put the name in the names array
+	--- lengthen the links array
+	--- find the place where the new name belongs keeping track of where you have been
+	--- set the new element in the links array to the address (read index) of the next name
+	--- set the links element of the previous name to the address (read index) of the new name in the names array

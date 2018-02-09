@@ -1,0 +1,29 @@
+Tim	0	
+Bill	1
+Jim	2
+Sue	3
+
+head = 1;
+
+-1	0
+ 2	1
+ 3	2
+ 0	3
+
+deleted = -1; (nothing to delete)
+
+delete Jim
+deleted = 2;
+
+position of Jim goes from 2 to -1;
+
+delete Bill
+where head was (Bill) will be Sue now
+head = 3;
+deleted = 1;
+
+add name at deleted (1)
+deleted = 2;
+Sarah less than Sue
+head = 1; (Sarah)
+Sue goes to Tim

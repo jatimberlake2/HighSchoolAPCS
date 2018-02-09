@@ -1,0 +1,86 @@
+Advanced Placement Computer Science
+Dr. Albert Lilly
+Welcome!
+
+Name you like to be called 
+
+Last name
+
+Home city
+
+Home county
+
+Home school
+
+Date of Birth
+
+Dorm room number
+
+Hall in dorm (pick one)
+Einstein, Curie, Newton, and Da Vinci
+
+*****************************
+
+Parent(s)/guardian(s) name(s) with proper title
+Examples:
+Rev. and Mrs. John Doe
+Mr. and Mrs. John Doe
+Dr. and Mrs. John Doe
+
+Parent(s)/guardian(s) mailing address
+
+City, State   Zip
+
+Example
+
+Jane Doe
+Mr. and Mrs. John Doe
+25 Highwater St.
+Mytown,  AL 12345
+
+******************************
+Who is your father's (or guardian's) employer?
+
+If self-employed what is the name of the business?
+
+If you know it, what is the telephone number of the company?
+
+As best as you can, write out your father's (or guardian's) job description.
+
+******************************
+Who is your mother's (or guardian's) employer?
+
+If self-employed what is the name of the business?
+
+If you know it, what is the telephone number of the company?
+
+As best as you can, write out your mother's (or guardian's) job description.
+
+******************************
+
+What is your email address?
+
+What is your parents/guardians email address?
+
+List something you like about computers. 
+
+Comment on an aspect of computers that you do not like.
+
+List an activity you enjoy that has nothing to do with computers.
+
+What do you know about web page development?
+
+What do you know about programming languages?
+
+What computer courses have you taken?
+
+Have you had any experience with Excel or
+other spreadsheet programs?
+
+Have you ever done modeling in three dimensions on a computer?     If so, what software did you use?
+
+What foreign languages have you had and how much have you taken?
+
+What is your favorite science?
+
+
